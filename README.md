@@ -13,5 +13,16 @@ password: admin
 
 ![image](https://user-images.githubusercontent.com/84494799/124961920-ac19db00-e03b-11eb-9d87-1c7423c581c7.png)
 
-1. user can see the movie dashboard, where initial movie search list is of MARVEL's search term.
-2. As highlighted i have coded a # Logout feature
+# Features coded as per requirement:
+1. User can see the movie dashboard, where initial movie search list is of MARVEL's search term after logging in.
+2. Logout feature.
+3. User can search movie using .
+    a. Movie name.
+    b. Movie year.
+4. Routing with protected routes.
+5. A screen to View more details.
+
+![image](https://user-images.githubusercontent.com/84494799/124962510-572a9480-e03c-11eb-9ecf-024dd18b68b8.png)
+
+6. In the above screen, we can observe that i have searched the movie avengers giving me multiple results and i have coded a modal screen to view more details.
+7. Also i provided a button to view the movie on IMDB website from the modal screen.
