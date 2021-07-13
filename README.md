@@ -13,7 +13,7 @@ password: admin
 
 ![image](https://user-images.githubusercontent.com/84494799/124961920-ac19db00-e03b-11eb-9d87-1c7423c581c7.png)
 
-# Features coded as per requirement:
+# Features :
 1. User can see the movie dashboard, where initial movie search list is of MARVEL's search term after logging in.
 2. Logout feature.
 3. User can search movie using .
@@ -26,7 +26,7 @@ password: admin
 
 6. In the above screen, we can observe that i have searched the movie avengers giving me multiple results and i have coded a modal screen to view more details.
 7. Also i provided a button to view the movie on IMDB website from the modal screen.
-8. As instructed posting the API key for login validation via local storage.
+8. Also posting the API key for login validation via local storage.
 
 Packages used:
 
